@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "companyLogo": "https://i.ibb.co/DgKhMb8/netflix-4-1.png",
+    "jobTitle": "Technical Database Engineer",
+    "companyName": "Google LLC",
+    "remoteOrOnsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "fulltimeOrParttime": "Full-time",
+    "salary": "Salary 1",
+    "jobDescription": "Job Description 1",
+    "jobResponsibility": "Job Responsibility 1",
+    "educationalRequirements": "Educational Requirements 1",
+    "experiences": "Experiences 1",
+    "contactInformation": {
+      "phone": "123-456-7890",
+      "email": "contact1@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "companyLogo": "https://i.ibb.co/DgKhMb8/netflix-4-1.png",
+    "jobTitle": "Job Title 2",
+    "companyName": "Company Name 2",
+    "remoteOrOnsite": "Onsite",
+    "location": "Location 2",
+    "fulltimeOrParttime": "Part-time",
+    "salary": "Salary 2",
+    "jobDescription": "Job Description 2",
+    "jobResponsibility": "Job Responsibility 2",
+    "educationalRequirements": "Educational Requirements 2",
+    "experiences": "Experiences 2",
+    "contactInformation": {
+      "phone": "987-654-3210",
+      "email": "contact2@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "companyLogo": "https://i.ibb.co/DgKhMb8/netflix-4-1.png",
+    "jobTitle": "Job Title 3",
+    "companyName": "Company Name 3",
+    "remoteOrOnsite": "Remote",
+    "location": "Location 3",
+    "fulltimeOrParttime": "Full-time",
+    "salary": "Salary 3",
+    "jobDescription": "Job Description 3",
+    "jobResponsibility": "Job Responsibility 3",
+    "educationalRequirements": "Educational Requirements 3",
+    "experiences": "Experiences 3",
+    "contactInformation": {
+      "phone": "555-555-5555",
+      "email": "contact3@example.com"
+    }
+  },
+  {
+    "id": 4,
+    "companyLogo": "https://i.ibb.co/DgKhMb8/netflix-4-1.png",
+    "jobTitle": "Job Title 4",
+    "companyName": "Company Name 4",
+    "remoteOrOnsite": "Remote",
+    "location": "Location 4",
+    "fulltimeOrParttime": "Part-time",
+    "salary": "Salary 4",
+    "jobDescription": "Job Description 4",
+    "jobResponsibility": "Job Responsibility 4",
+    "educationalRequirements": "Educational Requirements 4",
+    "experiences": "Experiences 4",
+    "contactInformation": {
+      "phone": "111-222-3333",
+      "email": "contact4@example.com"
+    }
+  }
+]
