@@ -20,8 +20,8 @@
   {
     "id": 2,
     "companyLogo": "https://i.ibb.co/DgKhMb8/netflix-4-1.png",
-    "jobTitle": "Job Title 2",
-    "companyName": "Company Name 2",
+    "jobTitle": "Technical software Engineer",
+    "companyName": "Facebook Inc.",
     "remoteOrOnsite": "Onsite",
     "location": "Location 2",
     "fulltimeOrParttime": "Part-time",
@@ -38,8 +38,8 @@
   {
     "id": 3,
     "companyLogo": "https://i.ibb.co/DgKhMb8/netflix-4-1.png",
-    "jobTitle": "Job Title 3",
-    "companyName": "Company Name 3",
+    "jobTitle": "Web developer",
+    "companyName": "Ali baba",
     "remoteOrOnsite": "Remote",
     "location": "Location 3",
     "fulltimeOrParttime": "Full-time",
@@ -56,8 +56,8 @@
   {
     "id": 4,
     "companyLogo": "https://i.ibb.co/DgKhMb8/netflix-4-1.png",
-    "jobTitle": "Job Title 4",
-    "companyName": "Company Name 4",
+    "jobTitle": "Junior Web Developer",
+    "companyName": "FedEx",
     "remoteOrOnsite": "Remote",
     "location": "Location 4",
     "fulltimeOrParttime": "Part-time",

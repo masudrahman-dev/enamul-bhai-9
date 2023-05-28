@@ -3,7 +3,7 @@ import './ServiceDetails.css';
 
 const ServiceDetails = () => {
     return (
-        <div className=''>
+        <>
             <div className='service-details'>
                 <h3 className='text-black text-center font-semibold text-2xl mt-3'>Job Details</h3>
             </div>
@@ -23,7 +23,7 @@ const ServiceDetails = () => {
 
                 </div>
             </div>
-        </div>
+        </>
     );
 };
 

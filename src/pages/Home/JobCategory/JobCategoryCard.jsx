@@ -5,7 +5,7 @@ const JobCategoryCard = ({item}) => {
   return (
     <div className=" p-7 bg-base-100 shadow-xl rounded-lg border">
       <div >
-        <img src={jobImg} alt="Shoes" />
+        <img src={jobImg} alt="photo" />
       </div>
       <div className="mt-3">
         <h2 className="card-title">{item?.name}</h2>

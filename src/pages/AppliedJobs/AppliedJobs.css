@@ -1,0 +1,9 @@
+.applied-jobs{
+    background-image: url('../../assets/All Images/Vector.png');
+    background-image: url('../../assets/All Images/Vector-1.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    width: 100%;
+    height: 400px;
+}

@@ -2,6 +2,9 @@ import { createBrowserRouter } from "react-router-dom";
 import Main from "../../layout/Main";
 import Home from "../../pages/Home/Home";
 import ServiceDetails from "../../pages/ServiceDetails/ServiceDetails";
+import AppliedJobs from "../../pages/AppliedJobs/AppliedJobs";
+import NotFounde from "../../pages/NotFound/NotFound";
+import NotFound from "../../pages/NotFound/NotFound";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -16,8 +19,16 @@ const router = createBrowserRouter([
       path:"/serviceDetails",
       element:<ServiceDetails></ServiceDetails>,
      },
+     {
+      path:"/appliedJobs",
+      element:<AppliedJobs></AppliedJobs>,
+     }
     ],
   },
+  {
+    path:"*",
+    element:<NotFound></NotFound>,
+  }
 ]);
 
 export default router;

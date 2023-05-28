@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 import JobCategoryCard from "./JobCategoryCard";
-import { useLoaderData } from "react-router-dom";
+
 const JobCategory = () => {
   const [data, setData] = useState([]);
   useEffect(() => {
