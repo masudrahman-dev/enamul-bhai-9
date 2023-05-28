@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "./Banner/Banner";
-import JobCategory from "./JonCategory/JobCategory";
+import JobCategory from "./JobCategory/JobCategory";
 import FeaturedJobs from "./FeaturedJobs/FeaturedJobs";
 
 const Home = () => {
@@ -17,3 +17,5 @@ const Home = () => {
 };
 
 export default Home;
+
+
